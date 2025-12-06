@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://leetcode.com/u/nehadaryani/](https://leetcode.com/u/nehadaryani/)
 
-- ⚡ My Goal **First Job should be in any MAANG**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
